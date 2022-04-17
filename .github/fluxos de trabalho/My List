@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/r2RZZ8t.jpg" group-title="Infantil",Cartoon Network HD
+http://136.243.36.88/marcelo3321/63528539821/2168?token=GBNeBEsLEVtDCAAHBlZWAg0FBVBWWlBQXVMCBlUHBVJTB1UHD1AGB1QaFBdHRkZTWAk5XFdADAEJBA8fFEJGABFuXwEaWRFQUQ4AAwEBFhobEA9YVkAMAg4HBwMODwdQVh0UFVEHEVsPTVRZGBBRTk0BFFtSDmlXXUReUFMVDwsWXVpJGgxdPgVdVVRaVhYMG1VEGRELRUMaCFlGWlsZRwFYQhdZF1ZDW1ZNWVgeFlVWEQhBQRsUCRpwZREaFVAdF1RYFlEMXUNbGkxGFh4WX0o7FFBAFkRWWV9SQRQNF1VBHRQIWRtsAg5WVlBXRl1ZVxdEDxFTFB8aX1hdX0NaFzxBXwEaWV0UDVRF
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cartoon_Network.svg" group-title="Infantil",Cartoon Network FHD
+http://c2n.one/live/8504375/7987691/208888.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="Infantil",Nick FHD
+http://cdn.wisemod.click/live/silvia/silvia123/204539.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg" group-title="Variedades",Comedy Central H265
+http://cdn.wisemod.click/live/silvia/silvia123/203550.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg" group-title="Variedades",Comedy Central FHD
+http://cdn.wisemod.click:80/live/wallace/wallace123/204452.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg" group-title="Variedades",Comedy Central HD
+http://cdn.wisemod.click/live/silvia/silvia123/204453.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg" group-title="Variedades",Comedy Central HD²
+http://xsrv.me:80/48274859/49274827/25126
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Abertos",Globo SP FHD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cartoon_Network.svg" group-title="Infantil",Cartoon Network FHD²
+http://cdn.wisemod.click:80/live/silvia/silvia123/204476.ts
+
